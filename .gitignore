@@ -1,0 +1,8 @@
+# Local output may contain user paths and filenames.
+**/reports/
+**/local-output/
+*.log
+*.transcript
+.env
+.env.*
+!.env.example
